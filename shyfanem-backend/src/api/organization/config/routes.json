@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "method": "POST",
+      "path": "/generate-files",
+      "handler": "organization.generateFiles",
+      "config": {
+        "policies": []  
+      }
+    }
+  ]
+}

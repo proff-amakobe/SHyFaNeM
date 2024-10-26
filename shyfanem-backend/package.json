@@ -1,5 +1,5 @@
 {
-  "name": "s-hy-fa-ne-m",
+  "name": "shyfanem-backend",
   "version": "0.1.0",
   "private": true,
   "description": "A Strapi application",
@@ -21,9 +21,11 @@
     "styled-components": "^6.0.0"
   },
   "devDependencies": {
+    "@types/archiver": "^6.0.2",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
+    "archiver": "^7.0.1",
     "typescript": "^5"
   },
   "engines": {
@@ -31,6 +33,6 @@
     "npm": ">=6.0.0"
   },
   "strapi": {
-    "uuid": "f8360530-0c3b-41c2-94e2-28619075255b"
+    "uuid": "eab7b7dc-57b1-4f1a-9b5c-737f4cf0dd97"
   }
 }
